@@ -20,7 +20,7 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
 <table>
   <tr>
     <td align="center">
-      <img alt="python" height=64px src="https://devicon.dev/devicon.git/icons/python/python-original.svg">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <br>Python
     </td>
     <td align="center">
@@ -28,15 +28,15 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>Django
     </td>
     <td align="center">
-      <img alt="javascript" height=64px src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
     <td align="center">
-      <img alt="vue" height=64px src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg">
+      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
       <br>Vue
     </td>
     <td align="center">
-      <img alt="react" height=64px src="https://devicon.dev/devicon.git/icons/react/react-original.svg">
+      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <br>React
     </td>
     <td align="center">
@@ -44,21 +44,21 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>Tailwind
     </td>
     <td align="center">
-      <img alt="bootstrap" height=64px src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
     <td align="center">
-      <img alt="jquery" height=64px src="https://devicon.dev/devicon.git/icons/jquery/jquery-original.svg">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="docker" height=64px src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg">
+      <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <br>Docker
     </td>
     <td align="center">
-      <img alt="jenkins" height=64px src="https://devicon.dev/devicon.git/icons/jenkins/jenkins-original.svg">
+      <img alt="jenkins" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
       <br>Jenkins
     </td>
     <td align="center">
@@ -78,17 +78,17 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>Firebase
     </td>
     <td align="center">
-      <img alt="postgresql" height=64px src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
     <td align="center">
-      <img alt="mysql" height=64px src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="bash" height=64px src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>BASH
     </td>
     <td align="center">
@@ -100,15 +100,15 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>CentOS
     </td>
     <td align="center">
-      <img alt="debian" height=64px src="https://devicon.dev/devicon.git/icons/debian/debian-original.svg">
+      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
       <br>Debian
     </td>
     <td align="center">
-      <img alt="pycharm" height=64px src="https://devicon.dev/devicon.git/icons/pycharm/pycharm-original.svg">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
       <br>PyCharm
     </td>
     <td align="center">
-      <img alt="webstorm" height=64px src="https://devicon.dev/devicon.git/icons/webstorm/webstorm-original.svg">
+      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
       <br>WebStorm
     </td>
     <td align="center">
@@ -116,7 +116,7 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>Dart
     </td>
     <td align="center">
-      <img alt="flutter" height=64px src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg">
+      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
       <br>Flutter
     </td>
   </tr>
