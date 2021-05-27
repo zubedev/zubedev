@@ -7,9 +7,9 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
 
 <br>
 <ul>
-  <li><img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg" /> Currently working remotely at <a href="https://tiger-park.com">Tiger Park Limited</a></li>
+  <li><img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg" /> Currently working remotely for <a href="https://tiger-park.com">Tiger Park Limited</a></li>
   <li><img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg" /> Training to be a <a href="https://www.google.com/search?q=cyber+security+specialist">Cyber Security</a> specialist</li>
-  <li>:seedling: Learning queue: <a href="https://golang.org/">Go Lang</a>, <a href="https://graphql.org/">GraphQL</a> and <a href="https://www.typescriptlang.org/">TypeScript</a></li>
+  <li>:seedling: Learning queue: <a href="https://golang.org/">GoLang</a>, and <a href="https://graphql.org/">GraphQL</a>.</li>
   <li><img alt="music" height=16px src="https://www.svgrepo.com/show/43051/music.svg" /> I love listening and dancing to Trance and Progressive</li>
   <li><img alt="camera" height=16px src="https://www.svgrepo.com/show/304810/movie-cam.svg" /> I am a huge TV show fanatic; sci-fi, mystery, action, drama, etc.</li>
   <li><img alt="handshake" height=16px src="https://www.svgrepo.com/show/81080/handshake.svg" /> Connect with me: <a href="mailto:ziibii88@gmail.com"><img alt="mail" height=24px src="https://www.svgrepo.com/show/223047/gmail.svg"/></a> <a href="https://facebook.com/ziibii88"><img alt="facebook" height=24px src="https://www.svgrepo.com/show/111203/facebook.svg"/></a> <a href="https://linkedin.com/in/ziibii88"><img alt="linkedin" height=24px src="https://www.svgrepo.com/show/157006/linkedin.svg" /></a> <a href="https://instagram.com/ziibii88"><img alt="instagram" height=24px src="https://www.svgrepo.com/show/111199/instagram.svg"></a> <a href="https://open.spotify.com/user/12184448469?si=-JhvP1iaR2-YX8BFu4HvaA"><img alt="spotify" height=24px src="https://www.svgrepo.com/show/217778/spotify.svg"></a></li>
@@ -29,7 +29,11 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
     </td>
     <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-      <br>Javascript
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img alt="typescript" height=64px src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+      <br>TypeScript
     </td>
     <td align="center">
       <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -46,10 +50,6 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
-    </td>
-    <td align="center">
-      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-      <br>jQuery
     </td>
   </tr>
   <tr>
@@ -104,12 +104,8 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>Debian
     </td>
     <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
-    </td>
-    <td align="center">
-      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-      <br>WebStorm
+      <img alt="golang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg">
+      <br>GoLang
     </td>
     <td align="center">
       <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
@@ -118,6 +114,10 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
     <td align="center">
       <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
       <br>Flutter
+    </td>
+    <td align="center">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+      <br>jQuery
     </td>
   </tr>
 </table>
