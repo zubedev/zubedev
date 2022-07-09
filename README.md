@@ -1,14 +1,14 @@
 <h1>:wave: Hello there, I'm <a href="https://github.com/ziibii88">Zubair Beg</a></h1>
 <br>
 
-Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Full Stack Developer</a> and <a href="https://www.google.com/search?q=devops+engineer">DevOps Engineer</a> with more than 2 years of related industry experience. Currently enrolled into <a href="https://www.ecu.edu.au/degrees/courses/master-of-cyber-security">Master of Cyber Security</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/242348/australia.svg"/> <a href="https://ecu.edu.au">Edith Cowan University</a>. Graduated from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/242348/australia.svg"/> <a href="https://curtin.edu.au">Curtin University</a> with <a href="https://study.curtin.edu.au/offering/course-ug-bachelor-of-technology-computer-systems-and-networking--b-csysnt">Bachelor of Technology</a> degree on July 2019.
+Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Full Stack Developer</a> and <a href="https://www.google.com/search?q=devops+engineer">DevOps Engineer</a> with more than 3 years of related industry experience. Recently graduated with <a href="https://www.ecu.edu.au/degrees/courses/master-of-cyber-security">Master of Cyber Security</a> degree at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/242348/australia.svg"/> <a href="https://ecu.edu.au">Edith Cowan University</a> on December 2021. Previously graduated from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/242348/australia.svg"/> <a href="https://curtin.edu.au">Curtin University</a> with <a href="https://study.curtin.edu.au/offering/course-ug-bachelor-of-technology-computer-systems-and-networking--b-csysnt">Bachelor of Technology</a> degree on July 2019.
 
-I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/travel.svg"/> travelling, especially to the islands <img alt="island" height=16px src="https://www.svgrepo.com/show/113532/island.svg"/>. I am from <img alt="bd-flag" height=16px src="https://www.svgrepo.com/show/242284/bangladesh.svg"/> Bangladesh, but spent most of my adulthood in <img alt="ca-flag" height=16px src="https://www.svgrepo.com/show/242265/canada.svg"/> Canada and <img alt="my-flag" height=16px src="https://www.svgrepo.com/show/56254/malaysia.svg"/> Malaysia.
+I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/travel.svg"/> travelling, especially to the islands <img alt="island" height=16px src="https://www.svgrepo.com/show/113532/island.svg"/>. I am from <img alt="bd-flag" height=16px src="https://www.svgrepo.com/show/242284/bangladesh.svg"/> Bangladesh, but spent most of my latter years in <img alt="ca-flag" height=16px src="https://www.svgrepo.com/show/242265/canada.svg"/> Canada, <img alt="my-flag" height=16px src="https://www.svgrepo.com/show/56254/malaysia.svg"/> Malaysia and recently moved into <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/242348/australia.svg"/> Australia.
 
 <br>
 <ul>
-  <li><img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg" /> Currently working remotely for <a href="https://tiger-park.com">Tiger Park Limited</a></li>
-  <li><img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg" /> Training to be a <a href="https://www.google.com/search?q=cyber+security+specialist">Cyber Security</a> specialist</li>
+  <li><img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg" /> Currently working as a Full Stack Developer for <a href="https://lotterywest.wa.gov.au/">Lotterywest</a></li>
+  <li><img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg" /> Also trained to be a <a href="https://www.google.com/search?q=cyber+security+specialist">Cyber Security</a> analyst/engineer</li>
   <li>:seedling: Learning queue: <a href="https://golang.org/">GoLang</a>, and <a href="https://graphql.org/">GraphQL</a>.</li>
   <li><img alt="music" height=16px src="https://www.svgrepo.com/show/43051/music.svg" /> I love listening and dancing to Trance and Progressive</li>
   <li><img alt="camera" height=16px src="https://www.svgrepo.com/show/304810/movie-cam.svg" /> I am a huge TV show fanatic; sci-fi, mystery, action, drama, etc.</li>
@@ -104,8 +104,8 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
       <br>Debian
     </td>
     <td align="center">
-      <img alt="golang" height=64px src="https://cdn.worldvectorlogo.com/logos/golang-gopher.svg">
-      <br>GoLang
+      <img alt="golang" height=64px src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg">
+      <br>Atlassian
     </td>
     <td align="center">
       <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
