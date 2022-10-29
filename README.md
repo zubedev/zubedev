@@ -7,7 +7,7 @@ I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/tr
 
 <br>
 <ul>
-  <li><img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg" /> Currently working as a Full Stack Developer for <a href="https://lotterywest.wa.gov.au/">Lotterywest</a></li>
+  <li><img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg" /> Currently working as a Software Developer for <a href="https://hatchd.com.au"><img alt="hatchd-logo" height="12px" src="https://images.squarespace-cdn.com/content/v1/5e44ad8313f9c50f025d0b88/1581580660763-M0EPNMCBF6XCUB522EQA/hatchd+logo.png?format=1500w"/> Hatchd</a></li>
   <li><img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg" /> Also trained to be a <a href="https://www.google.com/search?q=cyber+security+specialist">Cyber Security</a> analyst/engineer</li>
   <li>:seedling: Learning queue: <a href="https://golang.org/">GoLang</a>, and <a href="https://graphql.org/">GraphQL</a>.</li>
   <li><img alt="music" height=16px src="https://www.svgrepo.com/show/43051/music.svg" /> I love listening and dancing to Trance and Progressive</li>
